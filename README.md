@@ -80,6 +80,3 @@ LCL values plotted on top
 
 
 
-
-
-Short, clear, and to the point. Let me know if you want a project-style version or GitHub-ready formatting.
